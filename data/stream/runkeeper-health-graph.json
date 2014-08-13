@@ -1,0 +1,8 @@
+{
+    "id": "runkeeper-health-graph",
+    "type": "stream",
+    "name": "Runkeeper Health Graph",
+    "authentication": "OAuth 2.0",
+    "measures": [ "..." ]
+}
+// version?

@@ -1,0 +1,25 @@
+{
+    "id": "omron-7300it",
+    "type": "device",
+    "manufacturer": "omron",
+    "model": "7300IT",
+    "name": "Omron Elite 7300IT Blood Pressure Monitor",
+    "discontinued": true,
+    "measures": [
+        "systolic-blood-pressure",
+        "diastolic-blood-pressure"
+    ],
+    "communication": [
+        "USB"
+    ],
+    "applications": [
+        "hvcc"
+    ],
+    "references": [
+        {
+            "title": "Getting Started with your Omron Elite 7300IT Blood Pressure Monitor and Microsoft® HealthVault™",
+            "url": "http://omronhealthcare.com/wp-content/uploads/7300it-gettingstarted.pdf"
+        }
+    ],
+    "style": "upper arm"
+}

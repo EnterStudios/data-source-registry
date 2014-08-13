@@ -1,0 +1,30 @@
+{
+    "id": "withings-bp800",
+    "type": "device",
+    "manufacturer": "withings",
+    "model": "BP-800",
+    "name": "Withings Blood Pressure Monitor (2011)",
+    "discontinued": true,
+    "measures": [
+        "systolic-blood-pressure",
+        "diastolic-blood-pressure"
+    ],
+    "communication": [
+        "USB"
+    ],
+    "applications": [
+        "withings-health-mate"
+    ],
+    "style": "upper arm",
+    "notes": "It's unclear why this doesn't works on Android or how to represent that. It needs an adapter to work on iOS devices with a Lightning connector. How would we represent both of these things?",
+    "references": [
+        {
+            "title": "Is the blood pressure monitor compatible with Android?",
+            "url": "https://withings.zendesk.com/hc/en-us/articles/201487837-Is-the-blood-pressure-monitor-compatible-with-Android-"
+        },
+        {
+            "title": "Is the blood pressure monitor compatible with iPhone 5, iPad retina and iPad mini?",
+            "url": "https://withings.zendesk.com/hc/en-us/articles/201487857-Is-the-blood-pressure-monitor-compatible-with-iPhone-5-iPad-retina-and-iPad-mini-"
+        }
+    ]
+}

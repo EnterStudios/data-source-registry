@@ -1,0 +1,29 @@
+{
+    "id": "omron-wellness",
+    "type": "application",
+    "provider": "omron",
+    "name": "Omron Wellness",
+    "platforms": [
+        {
+            "os": "iOS",
+            "version": "7.0+",
+            "url": "https://itunes.apple.com/us/app/omron-wellness/id883492518",
+            "devices": [
+                "iPhone 5",
+                "iPhone 5C",
+                "iPhone 5S"
+            ]
+        },
+        {
+            "os": "Android",
+            "version": "4.3+",
+            "url": "https://play.google.com/store/apps/details?id=com.omron.wellness",
+            "devices": [
+                "Samsung Galaxy S III",
+                "Samsung Galaxy S4"
+            ]
+        }
+    ],
+    "streams": []
+}
+// version?

@@ -1,0 +1,36 @@
+{
+    "id": "microsoft-hvcc",
+    "type": "application",
+    "provider": "microsoft",
+    "name": "Microsoft HealthVault Connection Center",
+    "url": "https://www.healthvault.com/us/en/connection-center",
+    "platforms": [
+        {
+            "os": "Windows",
+            "version": "8"
+        },
+        {
+            "os": "Windows",
+            "version": "7"
+        },
+        {
+            "os": "Windows",
+            "version": "Vista"
+        },
+        {
+            "os": "Windows",
+            "version": "XP SP3"
+        }
+    ],
+    "streams": [
+        "microsoft-hv"
+    ],
+    "references": [
+        {
+            "title":"Using Health & Fitness Devices with HealthVault",
+            "description": "A basic FAQ about HealthVault and HealthVault Connection Center.",
+            "url":"https://account.healthvault.com/help/en-us/content/topics/UsingHealthAndFitnessDevices.htm"
+        }
+    ]
+}
+// version?

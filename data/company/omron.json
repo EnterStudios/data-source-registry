@@ -1,0 +1,11 @@
+{
+    "id": "omron",
+    "name": "Omron Healthcare, Inc.",
+    "references": [
+        {
+            "title": "Connected Health",
+            "description": "A page showing Omron's connected devices and how they integrate.",
+            "url": "http://omronhealthcare.com/service-and-support/connected-health/"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "withings-wbpm",
+    "type": "device",
+    "manufacturer": "withings",
+    "model": null,
+    "name": "Withings Wireless Blood Pressure Monitor",
+    "url": "http://www.withings.com/us/blood-pressure-monitor.html",
+    "discontinued": false,
+    "measures": [
+        "systolic-blood-pressure",
+        "diastolic-blood-pressure",
+        "heart-rate"
+    ],
+    "communication": [
+        "BT",
+        "BT LE",
+        "USB"
+    ],
+    "applications": [
+        "withings-health-mate"
+    ],
+    "style": "upper arm",
+    "msrp": {
+        "amount": "129.95",
+        "currency": "USD"
+    },
+    "notes": [
+        "Android devices can't connect over USB. Do we model this as a device restriction or an app restriction?"
+    ],
+    "references": [
+        {
+            "title": "Wireless Blood Pressure Monitor: iOS and Android compatibility",
+            "url": "https://withings.zendesk.com/hc/en-us/articles/201493157-Wireless-Blood-Pressure-Monitor-iOS-and-Android-compatibility"
+        }
+    ]
+}

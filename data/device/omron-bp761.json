@@ -1,0 +1,20 @@
+{
+    "id": "omron-bp761",
+    "type": "device",
+    "manufacturer": "omron",
+    "model": "BP761",
+    "name": "Omron 7 Series Wireless Upper Arm Blood Pressure Monitor BP761 (2014 Series)",
+    "url": "http://omronhealthcare.com/products/7-series-upper-arm-blood-pressure-monitor-plus-bluetooth-smart-bp761/",
+    "discontinued": false,
+    "measures": [
+        "systolic-blood-pressure",
+        "diastolic-blood-pressure"
+    ],
+    "communication": [
+        "BT LE"
+    ],
+    "applications": [
+        "omron-wellness"
+    ],
+    "style": "upper arm"
+}

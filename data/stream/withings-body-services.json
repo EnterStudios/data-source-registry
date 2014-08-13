@@ -1,0 +1,8 @@
+{
+    "id": "withings-body-services",
+    "type": "stream",
+    "name": "Withings Body Services",
+    "authentication": "OAuth 1.0a",
+    "measures": [ "..." ]
+}
+// version?
